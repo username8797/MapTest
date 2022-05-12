@@ -17,6 +17,8 @@
 					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
 					<key>UISceneStoryboardFile</key>
 					<string>Main</string>
+					<key>NSLocationWhenInUseUsageDescription</key>
+					<string>This is why we need your location</string>
 				</dict>
 			</array>
 		</dict>
